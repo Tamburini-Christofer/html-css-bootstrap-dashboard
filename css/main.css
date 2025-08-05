@@ -6,32 +6,21 @@
     box-sizing: border-box;
 }
 
-img{
-    width: 50px;
+.btn{
+  --bs-btn-padding-x: 0.30rem;
+  --bs-btn-padding-y: 0.30rem;
 }
 
-tr td button{
-    margin: 0px 1px;
+img{
+    width: 50px;
 }
 
 tbody tr td:last-child{
     text-align: center;
 }
 
-.bg-dark-subtle {
-  background-color: #212529 !important;
-}
-
-.text-grey{
-  color: #969899;
-}
-
 .mobile_poof{
     display: inline;
-}
-
-table{
-    margin-top:20px
 }
 
 .navbar-toggler{
@@ -42,14 +31,6 @@ table{
 .nav-link:hover{
     color: white;
 }
-
-
-/************************************************************************/
-/************************************************************************/
-
-/*Responsive*/
-
-/*Tablet*/
 
 /*Smartphone*/
 
