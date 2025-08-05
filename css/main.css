@@ -1,0 +1,29 @@
+/*Generali*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 50px;
+}
+
+.bg-dark-subtle {
+  background-color: #212529 !important;
+}
+
+.text-grey{
+  color: #969899;
+}
+
+
+/************************************************************************/
+/************************************************************************/
+
+/*Responsive*/
+
+/*Tablet*/
+
+/*Smartphone*/
