@@ -10,6 +10,10 @@ img{
     width: 50px;
 }
 
+tr td button{
+    margin: 0px 1px;
+}
+
 tbody tr td:last-child{
     text-align: center;
 }
@@ -29,6 +33,16 @@ tbody tr td:last-child{
 table{
     margin-top:20px
 }
+
+.navbar-toggler{
+    color: #898c8d;
+    margin-right: 10px;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
 
 /************************************************************************/
 /************************************************************************/
