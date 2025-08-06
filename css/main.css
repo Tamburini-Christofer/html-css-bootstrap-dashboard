@@ -11,6 +11,15 @@
   --bs-btn-padding-y: 0.30rem;
 }
 
+.container{
+    padding: 0;
+}
+
+h6{
+    font-size: 18px;
+    font-weight: 600;
+}
+
 img{
     width: 50px;
 }
