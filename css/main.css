@@ -11,7 +11,13 @@
   --bs-btn-padding-y: 0.30rem;
 }
 
-.container{
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.container-md,
+.container {
     padding: 0;
 }
 
@@ -47,6 +53,10 @@ tbody tr td:last-child{
 
     .mobile_poof{
         display: none;
+    }
+
+    .container-md{
+    padding: 5px 14px;
     }
     
 }
